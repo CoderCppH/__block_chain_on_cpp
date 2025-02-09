@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: каталог Intermediate заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Intermediate.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  main.cpp
+D:\tools\VS\PROJECTS\C_SHARP\block_chain\block_chain\source\block_shain.h(32,4): error C4996: 'SHA256_Init': Since OpenSSL 3.0
+  (компиляция исходного файла "main.cpp")
+  
+D:\tools\VS\PROJECTS\C_SHARP\block_chain\block_chain\source\block_shain.h(33,4): error C4996: 'SHA256_Update': Since OpenSSL 3.0
+  (компиляция исходного файла "main.cpp")
+  
+D:\tools\VS\PROJECTS\C_SHARP\block_chain\block_chain\source\block_shain.h(34,4): error C4996: 'SHA256_Final': Since OpenSSL 3.0
+  (компиляция исходного файла "main.cpp")
+  
